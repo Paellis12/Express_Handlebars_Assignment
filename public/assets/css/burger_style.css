@@ -1,9 +1,9 @@
 body {
-  background-color: #00ccff;
+  background-color: #b9dfe9;
 }
 
 .jumbotron h1{
-	color: #ff33cc;
+	color: #0cf063;
 
 }
 
@@ -18,5 +18,5 @@ margin-top: 5%;
 }
 
 .submitFont{
-	color: green;
+	color: rgb(34, 240, 34);
 }
